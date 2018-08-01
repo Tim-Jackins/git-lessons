@@ -1,6 +1,6 @@
 # Git Lessons
 
->A set of tutorials challenges to ready students for collaboration via Git and GitHub (This is a remodeling of [git-it](https://github.com/jlord/git-it-electron) for the Sigma engineering program)
+>A set of tutorials and challenges to ready students for collaboration via Git and GitHub (This is a remodeling of [git-it](https://github.com/jlord/git-it-electron) for the Sigma engineering program)
 
 Table of Contents
 
