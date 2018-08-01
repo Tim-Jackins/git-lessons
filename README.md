@@ -9,7 +9,7 @@ Table of Contents
 * [Lesson 3](3_commiting.md): Commit *this* to memory
 * [Lesson 4](4_github.md): Getting GitHub
 * [Lesson 5](5_remotes.md): Bring a Remote Into the Mix
-* Lesson 6: Forks and Clones *Comming Soon...*
+* [Lesson 6](6_forks_and_clones.md): Forks and Clones
 * Lesson 7: Branches!? What am I climbing a tree? *Comming Soon...*
 * Lesson 8: Collaboration is caring *Comming Soon...*
 * Lesson 9: Pull *Comming Soon...*
