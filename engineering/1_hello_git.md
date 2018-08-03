@@ -11,23 +11,22 @@ Git is an open source distributed version control system. Which means...
   * Git remembers the history of all your files so you don't have to!
     This makes reverting to previous versions easy and losing files hard.
 
-Git should probably already be installed on your raspberry pi. Type `git --version` in your terminal and if it returns a version number higher than 1.7.10, you're set!
+Git should already be installed on your Raspberry Pi. Run the command
+`git --version` in your terminal and make sure it returns a version number
+higher than 1.7.10.
 
-Your probably filling out forms in all your other classes to let your teachers know who you are. So might as well do the same with Git?
+You haven't introduced yourself to Git yet! Let's do that now. Git doesn't
+really care what your name or email is, but it's helpful for your teammates
+to see who wrote which pieces of code.
 
-Set your name:
+Set your name and email:
 
 ```bash
 git config --global user.name "Your Name"
-```
-
-Set your email:
-
-```bash
 git config --global user.email "youremail@example.com"
 ```
 
-And just so that we're all on the same page set Nano to the default editor for git:
+And just so that we're all on the same page, set Nano to the default editor for git:
 
 ```bash
 git config --global core.editor "nano"
