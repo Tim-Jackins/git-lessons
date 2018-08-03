@@ -35,7 +35,7 @@ So now that Git knows who you are let's make a repository.
 
 A repository is a collection of related files and in most cases it's a folder for storing a project. You can store code, pictures, and even 3D parts in a repository!
 
-![repos](images/repos.png)
+![repos](../images/repos.png)
 
 In order for Git to start tracking a repository you need to tell it to do so. Make a new directory called hello-world and go into it. Once inside use this command to start tracking this repository:
 
