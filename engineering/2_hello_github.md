@@ -25,16 +25,16 @@ Pretty cool, right? Git remembered what your file looked like the last time you 
 
 ## Bring a Remote Into the Mix / Hello GitHub
 
-Here comes the distributed part of Git. So in order to collaborate with teamates you'll need to put it somewhere *remote*ly where you can both reach it. GitHub provides these services for free! Once your repo is on GitHub anyone, who has premission to, can pull/(copy and download) changes from the remote and push/(copy and upload) their changes to the remote.
+What's more fun than a repo stored in one place? A repo stored in two places! In order to share your code with teammates, you'll need to put it somewhere *remote*ly where you can both reach it. GitHub provides this service for free! Once your repo is on GitHub, other people, can pull/(copy and download) changes from the remote and (if you let them) push/(copy and upload) their changes to the remote.
 
 ![remotes](../images/remotes.png)
 
-You're going to need to make a GitHub account to use their services. Once that's done go ahead and make an new empty repo on GitHub.
+You're going to need to [make a GitHub account](https://github.com/join) to use their services. Once that's done, go ahead and [make an new empty repo](https://github.com/new) on GitHub.
 
-If you make it succesfully then you should see a screen talking about 'Quick Setup' and showing you an https link. That links points to your empty space that GitHub has allocated for your repo. So here's how you tell your local repo to treat that space as it's remote.
+If you make it succesfully, then you should see a screen talking about 'Quick Setup' and showing you an https link. That links points to your empty space that GitHub has allocated for your repo. So here's how you tell your local repo to treat that space as its remote.
 
 ```bash
-git remote add origin <Url from GitHub>
+git remote add origin <URL from GitHub>
 ```
 
 So now let's push our local repository to the remote.
@@ -43,6 +43,6 @@ So now let's push our local repository to the remote.
 git push origin master
 ```
 
-Now go to your remote repository's page on GitHub.com and refresh the page. Wow! Everything is now the same locally as it is remotely. Congrats on your first public repository!
+Now go to your remote repository's page on GitHub.com, and refresh the page. Wow! Everything is now the same locally as it is remotely. Congrats on your first public repository!
 
 Going forward you may to keep all your code, whether it's for a project or for the lesson, backed up with Git on GitHub just in case your Raspberry Pi fails.
