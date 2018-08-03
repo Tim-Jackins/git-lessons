@@ -75,3 +75,6 @@ Delete a local branch
 git branch -D <BRANCHNAME>
 Delete a remote branch
 git push <REMOTENAME> --delete <BRANCHNAME>
+
+Saving credentials
+git config credential.helper store
