@@ -1,6 +1,6 @@
 # Hello GitHub
 
-Now that you've got a repository started let's add a text file to it. Call it something fun and write something cool in it. Now let's check out some of that Git file tracking.
+Now that you've got a repository started, let's add a text file to it. Call it something fun and write something cool in it. Now let's check out some of that Git file tracking.
 
 First, try this command:
 
@@ -8,20 +8,20 @@ First, try this command:
 git status
 ```
 
-Hmm, Git saw your file but it still isn't tracking. You need to add the changes you made in that file and commit your changes to the repository.
+Hmm, Git saw your file but it still isn't tracking it. You need to `add` the changes you made in that file and `commit` your changes to the repository.
 
 ```bash
 git add <Filename>
-git commit -m "<insert a message>"
+git commit -m "<insert a brief description of your work>"
 ```
 
-OK so now go back to that file and add a line of text--or remove a line--and try this command:
+Okay, now go back to that file and add a line of text--or remove a line--and try this command:
 
 ```bash
 git diff
 ```
 
-Pretty cool right? This is the version control part of Git tracking the changes you made to your file.
+Pretty cool, right? Git remembered what your file looked like the last time you committed, and is showing you the changes you made to your file since then.
 
 ## Bring a Remote Into the Mix / Hello GitHub
 
