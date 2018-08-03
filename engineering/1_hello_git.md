@@ -8,7 +8,8 @@ Git is an open source distributed version control system. Which means...
   * No single point of failure. If you are using Git to collaborate, everyone
     on your team has a full backup of the entire project.
 * Version Control
-  * Git tracks all the changes your make to all your files so you don't have too! This makes reverting easy and losing files hard.
+  * Git remembers the history of all your files so you don't have to!
+    This makes reverting to previous versions easy and losing files hard.
 
 Git should probably already be installed on your raspberry pi. Type `git --version` in your terminal and if it returns a version number higher than 1.7.10, you're set!
 
