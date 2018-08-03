@@ -32,18 +32,18 @@ And just so that we're all on the same page, set Nano to the default editor for 
 git config --global core.editor "nano"
 ```
 
-So now that Git knows who you are let's make a repository.
+So now that Git knows who you are, let's make a repository.
 
-A repository is a collection of related files and in most cases it's a folder for storing a project. You can store code, pictures, and even 3D parts in a repository!
+A repository is a collection of related files -- it's a folder for storing a project. You can store code, pictures, and even 3D parts in a repository!
 
 ![repos](../images/repos.png)
 
-In order for Git to start tracking a repository you need to tell it to do so. Make a new directory called hello-world and go into it. Once inside use this command to start tracking this repository:
+Let's try making one. First, create a new directory called hello-world (run `mkdir hello-world`) and go into it (`cd hello-world`). Use this command to tell Git that you want this to be a fresh repository:
 
 ```bash
 git init
 ```
 
-If you don't see something that starts with "Initialized empty Git repository" that may be a problem.
+You should see something that starts with `Initialized empty Git repository`.
 
-If not congradulations you just made your first Git repository! To double check the repository exists you can use the command `git status`.
+Congratulations, you just made your first Git repository! To double check the repository exists, you can use the command `git status`. Next, you'll learn what you can do with your new repo.
