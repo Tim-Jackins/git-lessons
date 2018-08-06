@@ -32,7 +32,7 @@ A repository is a collection of related files -- it's a folder for storing a pro
 
 ![repos](../images/repos.png)
 
-Let's try making one. First, create a new directory called hello-world (run `mkdir hello-world`) and go into it (`cd hello-world`). Use this command to tell Git that you want this to be a fresh repository:
+Let's try making one. First, create a new directory called hello-world (`mkdir hello-world`) and go into it (`cd hello-world`). Use this command to tell Git that you want this to be a fresh repository:
 
 ```bash
 git init
