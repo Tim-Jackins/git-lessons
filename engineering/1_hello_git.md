@@ -17,7 +17,7 @@ Set your name and email:
 
 ```bash
 git config --global user.name "Your Name"
-git config --global user.email "youremail@example.com"
+git config --global user.email "youremail@charlottesvilleschools.org"
 ```
 
 And just so that we're all on the same page, set Nano to the default editor for git:
