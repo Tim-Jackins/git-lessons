@@ -47,4 +47,4 @@ Now go to your remote repository's page on GitHub.com, and refresh the page. Wow
 
 Going forward you may to keep all your code, whether it's for a project or for the lesson, backed up with Git on GitHub just in case your Raspberry Pi fails.
 
-There's a lot of really cool Git features that we skipped over for the sake of time. If you're curious, there are [plenty of online resoruces](http://try.github.io/) to help you learn more.
+There's a lot of really cool Git features that we skipped over for the sake of time. If you're curious, there are [plenty of online resources](http://try.github.io/) to help you learn more. GitHub also has some [handy functionality](https://guides.github.com/) that could be useful to your project.
