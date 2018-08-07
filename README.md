@@ -10,13 +10,11 @@ These tutorials are for **Charlottesville High School Students** and are designe
 
 ## Tutorials
 
-The tutorials are designed for a [project-based](https://www.bie.org/about/what_pbl) engineering class. The two tutorials are available in the following list, if more are made they will be added:
-
 1. [Hello Git](engineering/1_hello_git.md)
 2. [Hello GitHub](engineering/2_hello_github.md)
 
-If you have questions make a [new issue](https://github.com/chssigma/git-lessons/issues).
+If you have questions, make a [new issue](https://github.com/chssigma/git-lessons/issues).
 
 ## License
 
-GPLv3 © Charlottesville High School Sigma
+[GPLv3](LICENSE) © Charlottesville High School
