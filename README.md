@@ -6,7 +6,7 @@
 
 >A set of tutorials and challenges to ready students for collaboration via Git and GitHub
 
-These tutorials are designed to be added into a [Canvas course](https://www.canvaslms.com/). This is why they don't conform to CommonMark Spec.
+These tutorials are designed to be added into a [Canvas course](https://www.canvaslms.com/).
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ These tutorials are designed to be added into a [Canvas course](https://www.canv
 * [Contribute](#contribute)
 * [License](#license)
 
-## Usage
+## Tutorials
 
 The tutorials are designed for a [project-based](https://www.bie.org/about/what_pbl) engineering class. The two tutorials are available in the following list, if more are made they will be added:
 
@@ -30,8 +30,8 @@ Feel free to contribute in the following ways:
 * [Open an issue](https://github.com/chssigma/gitlessons/issues/new), there is no issue template so please police yourself.
 * Pull Requests are accepted.
 
-This repo is for educating students so please abide by the [code of conduct](.github/CODE_OF_CONDUCT.md).
+This repo is for mainly for Charlottesville High School students so remember the Charlottesville City School's [Code of Student Conduct](http://charlottesvilleschools.org/conduct).
 
 ## License
 
-GPLv3 © CHS Sigma
+GPLv3 © Charlottesville High School Sigma
