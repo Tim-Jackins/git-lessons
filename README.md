@@ -6,11 +6,11 @@
 
 >A set of tutorials and challenges to ready students for collaboration via Git and GitHub
 
-These tutorials are designed to be added into a [Canvas course](https://www.canvaslms.com/).
+These tutorials are designed to be added into a [Canvas course](https://www.canvaslms.com/). They are also for **Charlottesville High School Students**.
 
 ## Table of Contents
 
-* [Usage](#usage)
+* [Tutorials](#usage)
 * [Contribute](#contribute)
 * [License](#license)
 
