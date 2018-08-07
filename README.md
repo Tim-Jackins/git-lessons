@@ -15,7 +15,7 @@ The tutorials are designed for a [project-based](https://www.bie.org/about/what_
 1. [Hello Git](engineering/1_hello_git.md)
 2. [Hello GitHub](engineering/2_hello_github.md)
 
-If you have questions about the usage make a [new issue](https://github.com/chssigma/git-lessons/issues).
+If you have questions make a [new issue](https://github.com/chssigma/git-lessons/issues).
 
 ## License
 
