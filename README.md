@@ -6,7 +6,7 @@
 
 >A set of tutorials and challenges to ready students for collaboration via Git and GitHub
 
-These tutorials are for **Charlottesville High School Students** and are intended to be put into a Canvas course. The Canvas course will be updated to match the tutorials everytime a pull request containing a new topic is merged.
+These tutorials are for **Charlottesville High School students** and are intended to be put into a Canvas course. The Canvas course will be updated to match the tutorials everytime a pull request containing a new topic is merged.
 
 ## Tutorials
 
