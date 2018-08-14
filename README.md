@@ -12,6 +12,7 @@ These tutorials are for **Charlottesville High School students** and are intende
 
 1. [Hello Git](engineering/1_hello_git.md)
 2. [Hello GitHub](engineering/2_hello_github.md)
+3. [Forks and Clones](engineering/3_forks_and_clones.md)
 
 If you have questions, make a [new issue](https://github.com/chssigma/git-lessons/issues).
 
