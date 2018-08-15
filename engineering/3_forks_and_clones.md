@@ -22,7 +22,7 @@ Pull up a terminal on your pi, head to the home directory (`cd ~`), and clone yo
 git clone https://github.com/<your GitHub Username>/cool-repo.git
 ```
 
-You now have your very own local copy of your fork of `cool-repo`! Add your name to the appropriate table and commit and push your changes. Here's a cool diagram describing what you did:
+You now have a local copy of your fork of `cool-repo`! Add your name to the appropriate table and commit and push your changes. Here's a cool diagram describing what you did:
 
 ![clone](/images/clone.png)
 
