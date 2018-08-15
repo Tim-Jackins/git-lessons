@@ -1,4 +1,4 @@
-# Forks and Clones
+# Forking and Cloning
 
 Now you know how to make a repo, attach a remote, and put your work on GitHub! As impressive as this is, it's only half the fun. The other half is collaborating with others online.
 
