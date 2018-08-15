@@ -33,7 +33,7 @@ This is the structure Git uses for online collaboration.
 
 "Did someone say online collaboration? I already know how to collaborate online, I'll make a Drive folder and share it with everyone but wait... How am I going to get code from my Pi onto Drive?"
 
-While Drive works well for sharing in some cases, Git has a better way of going about it especially relating to code.
+While Drive works well for sharing in some cases, Git has a better way of going about it, especially relating to code.
 
 You're going to need to [make a GitHub account](https://github.com/join) to use their services. Once that's done, go ahead and [make an new empty repo](https://github.com/new) on GitHub.
 
