@@ -31,9 +31,9 @@ What's more fun than a repo stored in one place? A repo stored in two places! In
 
 This is the structure Git uses for online collaboration.
 
-"Did someone say online collaboration? Easy peasy, I'll make a drive folder and share it with everyone but wait... How am I going to get code from my pi onto google drive?"
+"Did someone say online collaboration? I already know how to collaborate online, I'll make a Drive folder and share it with everyone but wait... How am I going to get code from my Pi onto Drive?"
 
-While this is the norm for services like drive, Git has a better way of going about it.
+While Drive works well for sharing in some cases, Git has a better way of going about it especially relating to code.
 
 You're going to need to [make a GitHub account](https://github.com/join) to use their services. Once that's done, go ahead and [make an new empty repo](https://github.com/new) on GitHub.
 
