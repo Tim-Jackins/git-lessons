@@ -23,11 +23,17 @@ git diff
 
 Pretty cool, right? Git remembered what your file looked like the last time you committed, and is showing you the changes you made to your file since then.
 
-## Bring a Remote Into the Mix / Hello GitHub
+## Bring a Remote Into the Mix
 
 What's more fun than a repo stored in one place? A repo stored in two places! In order to share your code with teammates, you'll need to put it somewhere *remote*ly where you can both reach it. GitHub provides this service for free! Once your repo is on GitHub, other people, can pull/(copy and download) changes from the remote and (if you let them) push/(copy and upload) their changes to the remote.
 
 ![remotes](../images/remotes.png)
+
+This is the structure Git uses for online collaboration.
+
+"Did someone say online collaboration? Easy peasy, I'll make a drive folder and share it with everyone but wait... How am I going to get code from my pi onto google drive?"
+
+While this is the norm for services like drive, Git has a better way of going about it.
 
 You're going to need to [make a GitHub account](https://github.com/join) to use their services. Once that's done, go ahead and [make an new empty repo](https://github.com/new) on GitHub.
 
