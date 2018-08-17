@@ -1,8 +1,8 @@
 # Hello GitHub
 
-Now that you've got a repository started, let's create a text file in it (nano `<your filename>`). Call it something fun and write something cool in it. Now let's check out some of that Git file tracking.
+Now that you've got a repository started, let's create a text file in it (`nano <your filename>`). Call it something fun and write something cool in it. Now let's check out some of that Git file tracking.
 
-First, use this command to have Git let you know what it's seeing:
+First, let's ask Git what's going on in your repository:
 
 ```bash
 git status
@@ -63,7 +63,7 @@ So now let's push our local repository to the remote.
 git push origin master
 ```
 
-Your terminal is going to ask you to put in your GitHub username and password so that it pushes code to your remote repo.
+Git will prompt you for your GitHub username and password in order to authorize the push. Keep in mind that these credentials are case-sensitive.
 
 Now go to your remote repository's page on GitHub.com, and refresh the page. Wow! Everything is now the same locally as it is remotely. Congrats on your first public repository!
 

@@ -11,7 +11,7 @@ Git is an open source distributed version control system. Which means...
 
 Git should already be installed on your Raspberry Pi. Run the command `git --version` in your terminal and make sure it returns a version number higher than 1.7.10.
 
-You haven't introduced yourself to Git yet! Let's do that now. Git doesn't really care what your name or email is, this info is used by Git to "sign" your commits so that others can see who made what changes in a repository.
+You haven't introduced yourself to Git yet! Let's do that now. Git doesn't really care what your name or email is; this info is used by Git to record the author of each commit.
 
 Set your name and email:
 
@@ -34,7 +34,7 @@ A repository is a collection of related files -- it's a folder for storing a pro
 
 Let's try making one. First, create a new directory called hello-world (`mkdir hello-world`) and go into it (`cd hello-world`).
 
-Use this command to tell Git to initialize tracking for this repository:
+Use this command to turn your folder into an empty Git repository:
 
 ```bash
 git init
