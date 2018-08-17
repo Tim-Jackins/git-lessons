@@ -3,7 +3,7 @@
 Git is an open source distributed version control system. Which means...
 
 * Open Source
-  * You are free to use, alter, edit, resell, and mess around with Git however you see fit.
+  * You are free to use, alter, edit, resell and mess around with Git however you see fit.
 * Distributed
   * No single point of failure. If you are using Git to collaborate, everyone on your team has a full backup of the entire project.
 * Version Control

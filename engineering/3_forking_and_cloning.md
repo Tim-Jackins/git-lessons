@@ -12,7 +12,7 @@ It's time to fork and clone!
 
 Forking is when you copy a repo to a different location on GitHub's servers. Because you have ownership over this copy, you can push commits to it.
 
-Click on the "Fork" button in the top right corner of the [webpage](https://github.com/chssigma/cool-repo). Once the animation is finished, look at the top left corner of the screen. You should see something saying forked from chssigma/cool-repo if so, you have succesfully forked your first repo.
+Click on the "Fork" button in the top right corner of the [webpage](https://github.com/chssigma/cool-repo). Once the animation is finished, look at the top left corner of the screen. You should see something saying forked from chssigma/cool-repo if so, you have successfully forked your first repo.
 
 ## Clone
 
@@ -28,9 +28,9 @@ You now have a local copy of your fork of `cool-repo`! Add your name to the appr
 
 ![clone](/images/clone.png)
 
-So now you need a way to get the changes you just commited back into the main repository owned by chssigma. Lucky for you, GitHub has a way to do this built in, it's called a pull request.
+So now you need a way to get the changes you just committed back into the main repository owned by chssigma. Lucky for you, GitHub has a way to do this built-in, it's called a pull request.
 
-Head back to your fork of `cool-repo`, should be `https://github.com/<your username>/cool-repo/`, click on "Pull requests" in the the menu bar near the top of the screen, and then click on "New pull request".
+Head back to your fork of `cool-repo`, should be `https://github.com/<your username>/cool-repo/`, click on "Pull requests" in the menu bar near the top of the screen, and then click on "New pull request".
 
 Double check that your changes are listed correctly and then create your pull request! Once you've done that, you simply have to wait for a collaborator, Mr. Timmins, on `chssigma/cool-repo` to pull in your changes.
 

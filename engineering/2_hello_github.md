@@ -8,11 +8,11 @@ First, use this command to have Git let you know what it's seeing:
 git status
 ```
 
-Hmm, Git saw that your file exists but it still isn't tracking it. You need to `add` the file you made  and `commit` your changes to the repository.
+Hmm, Git saw that your file exists but it still isn't tracking it. You need to `add` the file you made and `commit` your changes to the repository.
 
 ```bash
 git add <the name of your file>
-git commit -m "<a brief description of your work (ei: I just made a new file!)>"
+git commit -m "<a brief description of your work (ie: I just made a new file!)>"
 ```
 
 Okay, now go back to that file and add a line of text--or remove a line--and try this command:
@@ -32,7 +32,7 @@ git add <the name of your file>
 The command looks similar to the first add right? By adding with the filename you are telling Git to `add` all the changes to that file. Now let's `commit`, this command is the same as it was above:
 
 ```bash
-git commit -m "<a brief description of your work (ei: Added some changes to a file)>"
+git commit -m "<a brief description of your work (ie: Added some changes to a file)>"
 ```
 
 ## Bringing a Remote Into the Mix
@@ -47,15 +47,15 @@ This is the structure Git uses for online collaboration.
 
 While Drive works well for sharing in some cases, Git has a better way of going about it, especially relating to code.
 
-You're going to need to [make a GitHub account](https://github.com/join) to use their services. Once that's done, go ahead and [make an new empty repo](https://github.com/new) on GitHub. Name it `hello-world` and do not initialize with a README, LICENSE, or a .gitignore!
+You're going to need to [make a GitHub account](https://github.com/join) to use their services. Once that's done, go ahead and [make a new empty repo](https://github.com/new) on GitHub. Name it `hello-world` and do not initialize with a README, LICENSE, or a .gitignore!
 
-If you make it succesfully, then you should see a screen talking about 'Quick Setup' and showing you an HTTPS link. That link points to an empty space, on GitHub's servers, that GitHub has allocated for your repo. Now we have to give our repository directions on where to push commits so that they get saved in this new space. This is called adding a remote and here's the command to do it:
+If you make it successfully, then you should see a screen talking about 'Quick Setup' and showing you an HTTPS link. That link points to an empty space, on GitHub's servers, that GitHub has allocated for your repo. Now we have to give our repository directions on where to push commits so that they get saved in this new space. This is called adding a remote and here's the command to do it:
 
 ```bash
 git remote add origin <URL from GitHub>
 ```
 
-`origin` is that name that we are assigning to the remote. You can name your remote anything but for the sake of convention we are calling it origin.
+`origin` is that name that we are assigning to the remote. You can name your remote anything but for the sake of convention, we are calling it origin.
 
 So now let's push our local repository to the remote.
 
@@ -63,7 +63,7 @@ So now let's push our local repository to the remote.
 git push origin master
 ```
 
-Your terminal is going to ask you to put in your GitHub username and password so that it push code to your remote repo.
+Your terminal is going to ask you to put in your GitHub username and password so that it pushes code to your remote repo.
 
 Now go to your remote repository's page on GitHub.com, and refresh the page. Wow! Everything is now the same locally as it is remotely. Congrats on your first public repository!
 
