@@ -10,7 +10,7 @@ It's time to fork and clone!
 
 Forking is when you copy a repo to a different location on GitHub's servers. Because you have ownership over this copy, you can push commits to it.
 
-Click on the "Fork" button in the top right corner of the [webpage](https://github.com/chssigma/cool-repo). Once the animation is finished, look at the top left corner of the screen. You should see something saying "forked from chssigma/cool-repo" if so, you have successfully forked your first repo.
+Click on the "Fork" button in the top right corner of the [webpage](https://github.com/chssigma/cool-repo). Once the animation is finished, look at the top left corner of the screen. If you see something saying "forked from chssigma/cool-repo", you have successfully forked your first repo.
 
 ## Clone
 
@@ -36,7 +36,7 @@ Here's your diagram:
 
 ![pullrequest](/images/pullrequest.png)
 
-Either Mr. Timmins will approve your pull request or he will leave a comment explaining what you need to fix. You can check on your request [here](https://github.com/chssigma/cool-repo/pulls/). If you end up having to make changes, all you need to do is make them locally and add, commit, and push them.
+Either Mr. Timmins will approve your pull request or he will leave a comment explaining what you need to fix. You can check on your request [here](https://github.com/chssigma/cool-repo/pulls/). If you end up having to make changes, all you need to do is edit your repo locally and then add, commit, and push them.
 
 The fork, clone, and pull request method is how most strangers collaborate with each on GitHub. Congratulations, you have the tools to become an open source collaborator!
 
