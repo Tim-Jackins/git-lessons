@@ -8,7 +8,7 @@ First, let's ask Git what's going on in your repository:
 git status
 ```
 
-Hmmm, Git saw that your file exists but it still isn't tracking it. You need to `add` the file you made and `commit` your changes to the repository. The `git commit` command will open your default editor, nano, and prompt you to enter a commit message. This message should be brief but describe the changes you made in the commit. For example: `Created <the name of your file>`.
+Hmmm, Git saw that your file exists, but it still isn't tracking it. You need to `add` the file you made and `commit` your changes to the repository. The `git commit` command will open your default editor, nano, and prompt you to enter a commit message. This message should be brief but describe the changes you made in the commit. For example: `Created <the name of your file>`.
 
 ```bash
 git add <the name of your file>
