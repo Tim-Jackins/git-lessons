@@ -8,11 +8,11 @@ First, let's ask Git what's going on in your repository:
 git status
 ```
 
-Hmm, Git saw that your file exists but it still isn't tracking it. You need to `add` the file you made and `commit` your changes to the repository.
+Hmmm, Git saw that your file exists but it still isn't tracking it. You need to `add` the file you made and `commit` your changes to the repository. The `git commit` command will open your default editor, nano, and prompt you to enter a commit message. This message should be brief but describe the changes you made in the commit. For example: `Created <the name of your file>`.
 
 ```bash
 git add <the name of your file>
-git commit -m "<a brief description of your work (ie: I just made a new file!)>"
+git commit
 ```
 
 Okay, now go back to that file and add a line of text--or remove a line--and try this command:
@@ -23,17 +23,7 @@ git diff
 
 Pretty cool, right? Git remembered what your file looked like the last time you committed, and is showing you the changes you made to your file since then.
 
-Now that Git is fully tracking that file you can use `add` and `commit` changes. Let's check the status of our repo (*pst:* `git status`). Interesting, instead of telling us that the file you made is untracked Git is it's been modified. From here on out when you use the `add` command you will be adding specific changes inside of files, not the files themselves. The `diff` command is what you can use to double check changes that Git sees before you `add` and `commit` them. So now let's save those changes:
-
-```bash
-git add <the name of your file>
-```
-
-The command looks similar to the first add right? By adding with the filename you are telling Git to `add` all the changes to that file. Now let's `commit`, this command is the same as it was above:
-
-```bash
-git commit -m "<a brief description of your work (ie: Added some changes to a file)>"
-```
+Let's check the status of our repo (*pst:* `git status`). Hmmm, interesting, instead of telling us that your file is untracked, Git just says it's been modified. Once Git is tracking a file, `git add` will add specific changes inside of the file, not the file itself. Now `add` and `commit` your changes.
 
 ## Bringing a Remote Into the Mix
 
@@ -55,7 +45,7 @@ If you make it successfully, then you should see a screen talking about 'Quick S
 git remote add origin <URL from GitHub>
 ```
 
-`origin` is that name that we are assigning to the remote. You can name your remote anything but for the sake of convention, we are calling it origin.
+`origin` is the name that we are assigning to our remote. If you add other remotes later you would switch out `origin` for a different name when you run this command.
 
 So now let's push our local repository to the remote.
 

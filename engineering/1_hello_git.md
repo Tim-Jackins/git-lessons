@@ -3,7 +3,7 @@
 Git is an open source distributed version control system. Which means...
 
 * Open Source
-  * You are free to use, alter, edit, resell and mess around with Git however you see fit.
+  * You are free to use, alter, edit, resell, and mess around with Git however you see fit.
 * Distributed
   * No single point of failure. If you are using Git to collaborate, everyone on your team has a full backup of the entire project.
 * Version Control
@@ -30,7 +30,7 @@ So now that Git knows who you are, let's make a repository.
 
 A repository is a collection of related files -- it's a folder for storing a project. You can store code, pictures, and even 3D parts in a repository!
 
-![repos](../images/repos.png)
+![repos](/images/repos.png)
 
 Let's try making one. First, create a new directory called hello-world (`mkdir hello-world`) and use this command to turn your folder into an empty Git repository:
 
