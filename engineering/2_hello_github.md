@@ -57,11 +57,11 @@ Git will prompt you for your GitHub username and password in order to authorize 
 
 Now go to your remote repository's page on GitHub.com, and refresh the page. Wow! Everything is now the same locally as it is remotely. Congrats on your first public repository!
 
-This year we are going to move away from using the sigma wiki and instead are going to make your engineering notebook a repo! This means two things:
+This year we are going to move away from using the wiki and instead are going to make your engineering notebook a repo! This means two things:
 
 You must...
 
-- make a new repo called `Engineering 4 Notebook` and push it to GitHub
+- make a new repo called `Engineering-4` and push it to GitHub
 - store all of your lessons, and your write-ups in this repo
 
 I suggest ordering your notebook like so, see below, but you can order it however you like.

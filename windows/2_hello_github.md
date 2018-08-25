@@ -55,4 +55,23 @@ Git will prompt you for your GitHub username and password in order to authorize 
 
 Now go to your remote repository's page on GitHub.com, and refresh the page. Wow! Everything is now the same locally as it is remotely. Congrats on your first public repository!
 
-Going forward you should store your projects via Git.
+This year we are going to move away from using the wiki and instead are going to make your engineering notebook a repo! This means two things:
+
+You must...
+
+- make a new repo called `Engineering-4` and push it to GitHub
+- store all of your lessons, and your write-ups in this repo
+
+I suggest ordering your notebook like so, see below, but you can order it however you like.
+
+```bash
+Engineering 4 Notebook
+├── Bash
+│   └── hello_world.sh
+├── Python
+│   ├── calculator.py
+│   └── dice_roller.py
+└── README.md
+```
+
+You might be wondering "Hey wait a minute what's that .md file?" All the stuff you would normally put in your sigma wiki will instead be in the .md file. To make your file look pretty [use this guide](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
