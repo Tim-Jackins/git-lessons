@@ -65,7 +65,7 @@ You must...
 I suggest ordering your notebook like so, see below, but you can order it however you like.
 
 ```bash
-Engineering 4 Notebook
+Engineering-4
 ├── Bash
 │   └── hello_world.sh
 ├── Python
