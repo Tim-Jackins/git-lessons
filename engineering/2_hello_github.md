@@ -61,13 +61,13 @@ This year we are going to move away from using the wiki and instead are going to
 
 You must...
 
-- make a new repo called `Engineering-4` and push it to GitHub
+- make a new repo called `Engineering-4-notebook` and push it to GitHub
 - store all of your lessons, and your write-ups in this repo
 
 I suggest ordering your notebook like so, see below, but you can order it however you like.
 
 ```bash
-Engineering-4
+Engineering-4-notebook
 ├── Bash
 │   └── hello_world.sh
 ├── Python
